@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my-btn {
+    background-color: rgb(128, 128, 235);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.contact-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.contact-me {
+    font-size: 35px;
+    background-color: rgb(78, 69, 201);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
